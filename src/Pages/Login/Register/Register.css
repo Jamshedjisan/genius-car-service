@@ -3,8 +3,9 @@
     margin: 0 auto;
 }
 .register-form input{
+    margin-left: 200px;
 display:block;
-width:100%;
+width:50%;
 heigth:50px;
 padding-left:10px;
 font-size:18px;
